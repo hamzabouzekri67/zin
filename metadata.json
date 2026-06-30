@@ -1,0 +1,6 @@
+{
+  "name": "ZIN Fashion Ecosystem",
+  "description": "A high-fashion platform connecting models, brands, photographers, and designers with interactive role-based dashboards, casting calls, messaging, discover feed, and an integrated Developer Architecture Hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
